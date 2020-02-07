@@ -1,0 +1,4 @@
+com\microservice\webservice\limitsservice\LimitConfigapplication.class
+com\microservice\webservice\limitsservice\LimitConfigurationController.class
+com\microservice\webservice\limitsservice\LimitsServiceApplication.class
+com\microservice\webservice\limitsservice\Bean\LimitConfigBean.class
